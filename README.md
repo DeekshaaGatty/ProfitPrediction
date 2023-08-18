@@ -18,7 +18,8 @@ The project utilizes the `50_Startups.csv` dataset, which contains information o
 - `requirements.txt`: List of required Python libraries for easy setup.
 - `README.md`: This file, providing an overview of the project.
 - `ProfitPrediction_Report.pdf`: This report contains the details about the existing method, proposed method, methodology and implementation.
-- `Profit_Prediction.pptx`: This file is the power point presentation of the project. 
+- `Profit_Prediction.pptx`: This file is the power point presentation of the project.
+- `ProfitPrediction_DemoVideo.mp4`: This video file contains the explanation of the code.
 
 ## Analysis Steps:
 1. Import necessary libraries for data manipulation, visualization, preprocessing, and model evaluation.
